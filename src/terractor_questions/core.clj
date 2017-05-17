@@ -33,7 +33,7 @@
 
 (comment
   So many great features, I think the ebay Store integration module is
-  really cool. A lot of the users need t be target as much clients they
+  really cool. A lot of the users need to target as much clients they
   can, and most of those clients their destination to look up products
   is Ebay. I like the idea of "leverage" and provide a steping stone for
   those users.)
